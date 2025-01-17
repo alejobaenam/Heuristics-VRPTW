@@ -11,6 +11,19 @@ The project consists of four main deliverables, each focusing on different algor
 3. **Trabajo3**: Two metaheuristic algorithms for VRPTW. These are advanced techniques designed to explore the solution space more effectively and find near-optimal solutions.
 4. **Trabajo4**: Implementation of an evolutionary algorithm and a genetic algorithm. These algorithms use natural selection-inspired mechanisms to search for optimal or near-optimal solutions to VRPTW.
 
+### Visual Comparison
+
+The image below illustrates the improvement achieved using local search. The initial constructive solution generated 11 routes, whereas the local search approach reduced this to only 3 routes:
+
+![Routes Comparison](images/RutesGraphic.png)
+
+### Performance Summary
+
+The table below summarizes the performance of the best evolutionary and hybrid algorithms implemented in Trabajo4. The `Veh.` column shows the number of vehicles used, and the `GAP` column indicates the percentage difference from the lower bound:
+
+![Results Table](images/Results.png)
+
+
 ## Setup
 
 To work with the project, navigate to the respective folder for each deliverable:
