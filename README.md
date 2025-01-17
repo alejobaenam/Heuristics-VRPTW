@@ -1,6 +1,6 @@
 # VRPTW Heuristics
 
-This repository contains solutions to the **Vehicle Routing Problem with Time Windows (VRPTW)**, utilizing various heuristic approaches to solve the problem. The goal of the project is to **minimize the number of vehicles** required to service all the customer locations, and in the case of ties (same number of vehicles), **minimize the total travel distance**.
+This repository contains solutions to the **Vehicle Routing Problem with Time Windows (VRPTW)**, utilizing various heuristic approaches to solve the problem. The goal of the project is to **minimize the number of vehicles** required to service all the customer locations, and in the case of ties (same number of vehicles), **minimize the total travel distance**. The instances are located in the folder called **VRPTW Instances**.
 
 The project consists of four main deliverables, each focusing on different algorithmic strategies. The aim is to explore various methods for solving this complex optimization problem using heuristics.
 
