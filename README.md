@@ -15,14 +15,17 @@ The project consists of four main deliverables, each focusing on different algor
 
 The image below illustrates the improvement achieved using local search. The initial constructive solution generated 11 routes, whereas the local search approach reduced this to only 3 routes:
 
-![Routes Comparison](images/RutesGraphic.png)
+<p align="center">
+  <img src="images/RutesGraphic.png" alt="Routes Comparison" width="600">
+</p>
 
 ### Performance Summary
 
 The table below summarizes the performance of the best evolutionary and hybrid algorithms implemented in Trabajo4. The `Veh.` column shows the number of vehicles used, and the `GAP` column indicates the percentage difference from the lower bound:
 
-![Results Table](images/Results.png)
-
+<p align="center">
+  <img src="images/Results.png" alt="Results Table" width="550">
+</p>
 
 ## Setup
 
