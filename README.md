@@ -33,7 +33,7 @@ To work with the project, navigate to the respective folder for each deliverable
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/VRPTW-Heuristics.git
+git clone https://github.com/alejobaenam/Heuristics-VRPTW.git
 ```
 
 2. Navigate to the folder for each deliverable:
